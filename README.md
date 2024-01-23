@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Twitter: ももちゃん🍑](https://img.shields.io/twitter/follow/momochanjazz?style=social)](https://twitter.com/momochanjazz)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=momoka-kawaguchi&left_color=gray&right_color=blue)
+
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momoka-kawaguchi&theme=vue)
  
